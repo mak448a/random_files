@@ -1,3 +1,3 @@
 # images
 
-Just some images to use in stable diffusion.
+A repository to host random images.
