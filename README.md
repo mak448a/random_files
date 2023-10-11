@@ -1,3 +1,3 @@
-# images
+# files
 
-A repository to host random images.
+A repository to host random files.
