@@ -152,10 +152,5 @@
   },
   "unsafe_colors": {
     "CHAT_GREY": "#0b101a"
-  },
-  "background": {
-    "blur": 100,
-    "url": "https://images.unsplash.com/photo-1551509134-eb7c5ea9ad2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2666&q=80",
-    "alpha": 1
   }
 }
