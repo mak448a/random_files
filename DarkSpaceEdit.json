@@ -1,11 +1,15 @@
 {
-  "name": "Dark Space",
-  "description": "Cosmic Salad's Dark Matter meets mortyick's Dawn Space with my own custom flare. Made for the iPhone. Updates occasionally.",
+  "name": "Dark Space Edit",
+  "description": "Originally by ReplayJay",
   "version": "1.2.2",
   "authors": [
     {
       "name": "ReplayJay",
       "id": "563129175678910466"
+    },
+    {
+      "name": "mak448a",
+      "id": ""
     }
   ],
   "theme_color_map": {
